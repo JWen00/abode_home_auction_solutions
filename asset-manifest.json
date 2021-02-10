@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.1fa75a3a.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.697f7678.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.697f7678.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.520a4e25.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.520a4e25.js.map",
-    "static/css/2.c5f39334.chunk.css": "/react-gh-pages/static/css/2.c5f39334.chunk.css",
-    "static/js/2.0e019441.chunk.js": "/react-gh-pages/static/js/2.0e019441.chunk.js",
-    "static/js/2.0e019441.chunk.js.map": "/react-gh-pages/static/js/2.0e019441.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.e6161bf1935a31d14aad3672a3062da1.js": "/react-gh-pages/precache-manifest.e6161bf1935a31d14aad3672a3062da1.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.c5f39334.chunk.css.map": "/react-gh-pages/static/css/2.c5f39334.chunk.css.map",
-    "static/css/main.1fa75a3a.chunk.css.map": "/react-gh-pages/static/css/main.1fa75a3a.chunk.css.map",
-    "static/js/2.0e019441.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.0e019441.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.19ca28e6.png",
-    "static/media/slick-theme.css": "/react-gh-pages/static/media/slick.f97e3bbf.svg"
+    "main.css": "/abode_home_auction_solutions/static/css/main.1fa75a3a.chunk.css",
+    "main.js": "/abode_home_auction_solutions/static/js/main.cd185f42.chunk.js",
+    "main.js.map": "/abode_home_auction_solutions/static/js/main.cd185f42.chunk.js.map",
+    "runtime-main.js": "/abode_home_auction_solutions/static/js/runtime-main.ed3146c9.js",
+    "runtime-main.js.map": "/abode_home_auction_solutions/static/js/runtime-main.ed3146c9.js.map",
+    "static/css/2.668440f2.chunk.css": "/abode_home_auction_solutions/static/css/2.668440f2.chunk.css",
+    "static/js/2.0e019441.chunk.js": "/abode_home_auction_solutions/static/js/2.0e019441.chunk.js",
+    "static/js/2.0e019441.chunk.js.map": "/abode_home_auction_solutions/static/js/2.0e019441.chunk.js.map",
+    "index.html": "/abode_home_auction_solutions/index.html",
+    "precache-manifest.4a5a5ca414f6dc6c575c06e84c25e49a.js": "/abode_home_auction_solutions/precache-manifest.4a5a5ca414f6dc6c575c06e84c25e49a.js",
+    "service-worker.js": "/abode_home_auction_solutions/service-worker.js",
+    "static/css/2.668440f2.chunk.css.map": "/abode_home_auction_solutions/static/css/2.668440f2.chunk.css.map",
+    "static/css/main.1fa75a3a.chunk.css.map": "/abode_home_auction_solutions/static/css/main.1fa75a3a.chunk.css.map",
+    "static/js/2.0e019441.chunk.js.LICENSE.txt": "/abode_home_auction_solutions/static/js/2.0e019441.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/abode_home_auction_solutions/static/media/logo.19ca28e6.png",
+    "static/media/slick-theme.css": "/abode_home_auction_solutions/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.520a4e25.js",
-    "static/css/2.c5f39334.chunk.css",
+    "static/js/runtime-main.ed3146c9.js",
+    "static/css/2.668440f2.chunk.css",
     "static/js/2.0e019441.chunk.js",
     "static/css/main.1fa75a3a.chunk.css",
-    "static/js/main.697f7678.chunk.js"
+    "static/js/main.cd185f42.chunk.js"
   ]
 }

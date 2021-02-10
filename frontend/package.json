@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "homepage": "http://JWen00.github.io/react-gh-pages",
+  "homepage": "http://JWen00.github.io/abode_home_auction_solutions",
   "private": true,
   "dependencies": {
     "@date-io/core": "^2.10.6",
